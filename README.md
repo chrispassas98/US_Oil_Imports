@@ -1,6 +1,6 @@
 # US Crude Oil Imports Analysis
 
-![](usa_crude_oil_photo/a2af848b-5a03-4b32-98e1-61e63262795a.jpg)
+![](usa_crude_oil_photo/crude_oil.jpg)
 
 ## Dataset Description
 This dataset provides detailed information about U.S. crude oil imports by month for every year from 2009 to 2024. The data includes the country of origin, the U.S. port of entry, the name of the oil company, the type of crude oil, and the volume imported (in thousands of barrels).
